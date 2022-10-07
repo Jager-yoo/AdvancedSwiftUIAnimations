@@ -40,9 +40,9 @@ struct ContentView: View {
             Text("Example 5 (clock)")
           })
 
-//          NavigationLink(destination: Example6(), label: {
-//            Text("Example 6 (metal)")
-//          })
+          NavigationLink(destination: Example6(), label: {
+            Text("Example 6 (metal)")
+          })
         }
 
 //        Section(header: Text("Part 2: Geometry Effect")) {
