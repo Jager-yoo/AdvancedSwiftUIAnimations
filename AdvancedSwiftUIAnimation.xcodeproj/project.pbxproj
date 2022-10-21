@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C16A437E2902E9EB00638265 /* Example7.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16A437D2902E9EB00638265 /* Example7.swift */; };
 		C1B1C4AD28EFF6FD00702BAD /* AdvancedSwiftUIAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B1C4AC28EFF6FD00702BAD /* AdvancedSwiftUIAnimationApp.swift */; };
 		C1B1C4AF28EFF6FD00702BAD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B1C4AE28EFF6FD00702BAD /* ContentView.swift */; };
 		C1B1C4B128EFF6FE00702BAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1B1C4B028EFF6FE00702BAD /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C16A437D2902E9EB00638265 /* Example7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example7.swift; sourceTree = "<group>"; };
 		C1B1C4A928EFF6FD00702BAD /* AdvancedSwiftUIAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdvancedSwiftUIAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1B1C4AC28EFF6FD00702BAD /* AdvancedSwiftUIAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedSwiftUIAnimationApp.swift; sourceTree = "<group>"; };
 		C1B1C4AE28EFF6FD00702BAD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				C1B1C4C128EFF9B400702BAD /* Example4.swift */,
 				C1B1C4C328EFFA2E00702BAD /* Example5.swift */,
 				C1B1C4C728EFFB3800702BAD /* Example6.swift */,
+				C16A437D2902E9EB00638265 /* Example7.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				C1B1C4AD28EFF6FD00702BAD /* AdvancedSwiftUIAnimationApp.swift in Sources */,
 				C1B1C4C028EFF88500702BAD /* Example3.swift in Sources */,
 				C1B1C4C828EFFB3800702BAD /* Example6.swift in Sources */,
+				C16A437E2902E9EB00638265 /* Example7.swift in Sources */,
 				C1B1C4BE28EFF81E00702BAD /* Example2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
