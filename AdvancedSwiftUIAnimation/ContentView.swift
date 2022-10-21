@@ -45,19 +45,19 @@ struct ContentView: View {
           })
         }
 
-//        Section(header: Text("Part 2: Geometry Effect")) {
-//          NavigationLink(destination: Example7(), label: {
-//            Text("Example 7 (skew)")
-//          })
-//
-//          NavigationLink(destination: Example8(), label: {
-//            Text("Example 8 (rotating card)")
-//          })
-//
-//          NavigationLink(destination: Example9(), label: {
-//            Text("Example 9 (follow path)")
-//          })
-//        }
+        Section(header: Text("Part 2: Geometry Effect")) {
+          NavigationLink(destination: Example7(), label: {
+            Text("Example 7 (skew)")
+          })
+
+          NavigationLink(destination: Example8(), label: {
+            Text("Example 8 (rotating card)")
+          })
+
+          NavigationLink(destination: Example9(), label: {
+            Text("Example 9 (follow path)")
+          })
+        }
 //
 //        Section(header: Text("Part 3: Animatable Modifier")) {
 //          NavigationLink(destination: Example10(), label: {
